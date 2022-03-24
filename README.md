@@ -7,7 +7,7 @@ Three dashboards analyzing hotel, airline and miscellaneous use to assess budget
 
 ## Purpose 
 
-To optimize and reduce company expense in addition to budget planning for upcoming events, I created these dashboards to help get an idea of what companies may need investigate. 
+To optimize and reduce company expense in addition to budget planning for upcoming events, I created these dashboards to help get an idea of what companies may need to investigate. 
 
 ## Tableau Dashboard 
 
